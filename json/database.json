@@ -1,0 +1,7 @@
+{
+    "user": "python",
+    "password": "12341234",
+    "host": "localhost",
+    "name": "bot_group",
+    "port": 3306
+}
