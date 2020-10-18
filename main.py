@@ -86,5 +86,4 @@ else:
                         await channel.send(f"Je lance : {video.url}")
                         music.play_song(bot, client, music.musics[guild], video)
 
-
     bot.run(token)
